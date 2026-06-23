@@ -1,0 +1,50 @@
+import(stats)
+import(glmmML, gtools)
+
+export(bin2stg)
+S3method("print", "bin2stg")
+S3method("summary", "bin2stg")
+S3method("print", "summary.bin2stg")
+
+export(bivbin2stg)
+S3method("print", "bivbin2stg")
+S3method("summary", "bivbin2stg")
+S3method("print", "summary.bivbin2stg")
+
+export(bivlocsc2stg)
+S3method("print", "bivlocsc2stg")
+S3method("summary", "bivlocsc2stg")
+S3method("print", "summary.bivlocsc2stg")
+
+export(linbin2stg)
+S3method("print", "linbin2stg")
+S3method("summary", "linbin2stg")
+S3method("print", "summary.linbin2stg")
+
+export(locsc2stg)
+S3method("print", "locsc2stg")
+S3method("summary", "locsc2stg")
+S3method("print", "summary.locsc2stg")
+
+export(rclusbin)
+S3method("print", "rclusbin")
+S3method("summary", "rclusbin")
+S3method("print", "summary.rclusbin")
+
+export(rclusbin2)
+S3method("print", "rclusbin2")
+S3method("summary", "rclusbin2")
+S3method("print", "summary.rclusbin2")
+
+export(rclusbin3)
+S3method("print", "rclusbin3")
+S3method("summary", "rclusbin3")
+S3method("print", "summary.rclusbin3")
+
+export(condclusbin, binlogistic)
+
+export(mlefn, mlefn.control, mlefn.control.inner)
+
+export(MLInf, MLdirectInf, ML2Inf, ML2directInf, MEtaProspModInf)
+ 
+export(na.keep)
