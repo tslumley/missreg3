@@ -7,6 +7,6 @@ Maintainer: Thomas Lumley <t.lumley@auckland.ac.nz>
 Description: Performs a variety of regression analyses using semiparametric maximum likelihood for data subject to response selection and two-stage missingness.
 Imports: glmmML,gtools, stats
 License: GPL (>= 2)
-URL: http://www.stat.auckland.ac.nz/~wild
+URL: https://github.com/tslumley/missreg3
 LazyLoad: yes
 
