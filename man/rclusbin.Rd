@@ -55,7 +55,7 @@ http://www.stat.auckland.ac.nz/~wild
 \references{
 Description of the \code{missreg} Library, Wild and Jiang, 2007.
 }
-\seealso{ \code{\link{ghq}},  \code{\link{rclusbin2}}}
+\seealso{ \code{\link[glmmML]{ghq}},  \code{\link{rclusbin2}}}
 \examples{
 data(brainpairs)
 brainpairs$obstype <- rep("retro", dim(brainpairs)[1])

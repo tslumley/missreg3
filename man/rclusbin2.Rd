@@ -51,7 +51,7 @@ http://www.stat.auckland.ac.nz/~wild
 \references{
 Longitudinal Studies of Binary Response Data Following Case-Control and Stratified Case-Control Sampling: Design and Analysis, Schildcrout and Rathouz, BIOMETRICS 2009.
 }
-\seealso{ \code{\link{ghq}},  \code{\link{rclusbin}}}
+\seealso{ \code{\link[glmmML]{ghq}},  \code{\link{rclusbin}}}
 \examples{
 data(adhd)
 head(adhd)

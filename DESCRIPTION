@@ -1,7 +1,7 @@
 Package: missreg3
 Type: Package
 Title: Regression Functions for Two-phase Response-selective Sampled Data
-Version: 3.1
+Version: 3.1-1
 Author: Chris Wild <c.wild@auckland.ac.nz>, with contributions from Yannan Jiang <y.jiang@auckland.ac.nz>.
 Maintainer: Thomas Lumley <t.lumley@auckland.ac.nz>
 Description: Performs a variety of regression analyses using semiparametric maximum likelihood for data subject to response selection and two-stage missingness.
